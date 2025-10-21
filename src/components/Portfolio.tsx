@@ -12,32 +12,32 @@ const Portfolio = () => {
       description: "Full-stack MERN application featuring automated quiz generation and PDF certificate creation. Implements JWT-based authentication, protected routes, and dynamic quiz management.",
       image: lmsProject,
       tech: ["MongoDB", "Express.js", "React", "Node.js", "JWT", "PDF Generation"],
-      github: "https://github.com/chetanponugoti",
-      demo: null
+      github: "https://github.com/CHETAN-PONUGOTI/Chetan_LMS_Platform",
+      demo: "https://chetan-lms-platform.vercel.app/"
     },
     {
-      title: "OralVis: AI-Powered Oral Health Monitoring",
+      title: "Oral Health Reports Management",
       description: "Comprehensive full-stack system for dental workflow management with role-based access for technicians and dentists. Features secure file uploads and simulated AI analysis.",
       image: oralvisProject,
       tech: ["React", "Node.js", "Express", "MongoDB", "AI Integration", "File Upload"],
-      github: "https://github.com/chetanponugoti",
-      demo: null
+      github: "https://github.com/CHETAN-PONUGOTI/Chetan_Oral_Health_App",
+      demo: "https://chetan-oral-health-app.vercel.app/"
     },
     {
       title: "Cryptocurrency Dashboard",
       description: "Real-time cryptocurrency tracking application with React Query for data fetching. Includes Chart.js visualizations, dynamic routing, and fully responsive UI.",
       image: cryptoProject,
       tech: ["React", "React Query", "Chart.js", "REST API", "Responsive Design"],
-      github: "https://github.com/chetanponugoti",
-      demo: null
+      github: "https://github.com/CHETAN-PONUGOTI/My-Crypto-Dashboard",
+      demo: "https://my-crypto-dashboard-oqgy.vercel.app/"
     },
     {
       title: "Nxt Watch - Video Streaming Platform",
       description: "React SPA for video streaming with authentication, dynamic routing, and light/dark mode toggle. Features video saving functionality and personalized content feed.",
       image: nxtWatchProject,
       tech: ["React", "React Router", "Authentication", "Local Storage", "Responsive UI"],
-      github: "https://github.com/chetanponugoti",
-      demo: null
+      github: "https://github.com/CHETAN-PONUGOTI/Nxt_Watch-App",
+      demo: "https://chetannxtwatch.ccbp.tech/"
     }
   ];
 
