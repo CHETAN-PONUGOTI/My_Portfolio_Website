@@ -17,9 +17,9 @@ const Portfolio = () => {
     },
     {
       title: "Oral Health Reports Management",
-      description: "Comprehensive full-stack system for dental workflow management with role-based access for technicians and dentists. Features secure file uploads and simulated AI analysis.",
+      description: "Comprehensive full-stack system for dental workflow management with role-based access for technicians and dentists. Features secure file uploads.",
       image: oralvisProject,
-      tech: ["React", "Node.js", "Express", "MongoDB", "AI Integration", "File Upload"],
+      tech: ["React", "Node.js", "Express", "MongoDB", "File Upload"],
       github: "https://github.com/CHETAN-PONUGOTI/Chetan_Oral_Health_App",
       demo: "https://chetan-oral-health-app.vercel.app/"
     },
