@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button";
 import { Github, Linkedin, Mail, ArrowRight } from "lucide-react";
-import profilePhoto from "@/assets/profile-photo.jpg";
 
 const Hero = () => {
   const scrollToSection = (id: string) => {
@@ -54,7 +53,7 @@ const Hero = () => {
               <div className="absolute inset-0 bg-accent rounded-full w-96 h-96 -z-10 shadow-accent"></div>
               {/* Profile Image */}
               <img 
-                src={profilePhoto} 
+                src="https://i.postimg.cc/3R7p32ch/My-Image.png" 
                 alt="Chetan Ponugoti - Full Stack Developer" 
                 className="rounded-full w-96 h-96 object-cover border-8 border-primary-foreground/10"
               />
