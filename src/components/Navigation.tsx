@@ -64,7 +64,7 @@ const Navigation = () => {
                 Services
               </button>
               <button onClick={() => scrollToSection("portfolio")} className="text-foreground hover:text-accent transition-colors text-left">
-                Portfolio
+                Projects
               </button>
               <Button variant="hero" onClick={() => scrollToSection("contact")} className="w-full">
                 Let's Talk
