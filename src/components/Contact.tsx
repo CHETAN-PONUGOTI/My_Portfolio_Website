@@ -137,7 +137,7 @@ const Contact = () => {
               </p>
               <div className="flex gap-4">
                 <a 
-                  href="https://github.com/chetanponugoti" 
+                  href="https://github.com/CHETAN-PONUGOTI" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-primary-foreground hover:text-accent transition-colors"
@@ -146,7 +146,7 @@ const Contact = () => {
                 </a>
                 <span className="opacity-50">•</span>
                 <a 
-                  href="https://www.linkedin.com/in/chetan-ponugoti" 
+                  href="https://www.linkedin.com/in/chetan-ponugoti35" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-primary-foreground hover:text-accent transition-colors"
