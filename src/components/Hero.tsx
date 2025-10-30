@@ -34,10 +34,10 @@ const Hero = () => {
               </Button>
             </div>
             <div className="flex gap-4 pt-4">
-              <a href="https://github.com/chetanponugoti" target="_blank" rel="noopener noreferrer" className="text-primary-foreground hover:text-accent transition-colors">
+              <a href="https://github.com/CHETAN-PONUGOTI" target="_blank" rel="noopener noreferrer" className="text-primary-foreground hover:text-accent transition-colors">
                 <Github size={28} />
               </a>
-              <a href="https://www.linkedin.com/in/chetan-ponugoti" target="_blank" rel="noopener noreferrer" className="text-primary-foreground hover:text-accent transition-colors">
+              <a href="https://www.linkedin.com/in/chetan-ponugoti35/" target="_blank" rel="noopener noreferrer" className="text-primary-foreground hover:text-accent transition-colors">
                 <Linkedin size={28} />
               </a>
               <a href="mailto:chetanponugoti5@gmail.com" className="text-primary-foreground hover:text-accent transition-colors">
