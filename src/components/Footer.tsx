@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex flex-col items-center space-y-6">
           <div className="flex gap-6">
             <a 
-              href="https://github.com/chetanponugoti" 
+              href="https://github.com/CHETAN-PONUGOTI" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-accent transition-colors"
@@ -16,7 +16,7 @@ const Footer = () => {
               <Github size={24} />
             </a>
             <a 
-              href="https://www.linkedin.com/in/chetan-ponugoti" 
+              href="https://www.linkedin.com/in/chetan-ponugoti35" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-accent transition-colors"
