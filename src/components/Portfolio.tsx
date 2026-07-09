@@ -10,7 +10,7 @@ const Portfolio = () => {
     {
       title: "AI-Powered CRM Data Ingestion Engine",
       description: "Full-Stack Developer and AI Specialist crafting scalable, intelligent web applications. Passionate about bridging the gap between modern React/Node.js architectures and cutting-edge LLM integrations to build robust, automation-first digital experiences.",
-      image: lmsProject,
+      image: oralvisProject,
       tech: [ "Gemini API", "Dpcker", "Node.sj", "Express.js", "NextJS", "CRM", "SQLite Prisma"],
       github: "https://github.com/CHETAN-PONUGOTI/AI_CSV_Mapping_Extractor",
       demo: "https://chetan-lms-platform.vercel.app/"
