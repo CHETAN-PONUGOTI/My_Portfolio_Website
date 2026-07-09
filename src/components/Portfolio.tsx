@@ -8,20 +8,20 @@ import nxtWatchProject from "@/assets/project-nxtwatch.jpg";
 const Portfolio = () => {
   const projects = [
     {
+      title: "AI-Powered CRM Data Ingestion Engine",
+      description: "Full-Stack Developer and AI Specialist crafting scalable, intelligent web applications. Passionate about bridging the gap between modern React/Node.js architectures and cutting-edge LLM integrations to build robust, automation-first digital experiences.",
+      image: lmsProject,
+      tech: [ "Gemini API", "Dpcker", "Node.sj", "Express.js", "NextJS", "CRM", "SQLite Prisma"],
+      github: "https://github.com/CHETAN-PONUGOTI/AI_CSV_Mapping_Extractor",
+      demo: "https://chetan-lms-platform.vercel.app/"
+    },
+    {
       title: "LMS Platform with Micro Certification",
       description: "Full-stack MERN application featuring automated quiz generation and PDF certificate creation. Implements JWT-based authentication, protected routes, and dynamic quiz management.",
       image: lmsProject,
       tech: ["MongoDB", "Express.js", "React", "Node.js", "JWT", "PDF Generation"],
       github: "https://github.com/CHETAN-PONUGOTI/Chetan_LMS_Platform",
       demo: "https://chetan-lms-platform.vercel.app/"
-    },
-    {
-      title: "Oral Health Reports Management",
-      description: "Comprehensive full-stack system for dental workflow management with role-based access for technicians and dentists. Features secure file uploads.",
-      image: oralvisProject,
-      tech: ["React", "Node.js", "Express", "MongoDB", "File Upload"],
-      github: "https://github.com/CHETAN-PONUGOTI/Chetan_Oral_Health_App",
-      demo: "https://chetan-oral-health-app.vercel.app/"
     },
     {
       title: "Cryptocurrency Dashboard",
